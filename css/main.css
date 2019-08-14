@@ -200,6 +200,9 @@ main section div ul li span{
     max-width: 95vw;
     margin: 0 auto;
 }
+.img-inherit{
+    max-height: inherit;
+}
 .cols2{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
