@@ -202,7 +202,7 @@ main section div ul li span{
 }
 .cols2{
     display: grid;
-    grid-template-columns: auto auto auto;
+    grid-template-columns: 1fr 1fr 1fr;
     grid-gap:10px;
     justify-content: center;
     align-items: center;
