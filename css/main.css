@@ -201,7 +201,7 @@ main section div ul li span{
     margin: 0 auto;
 }
 .cols1 h3 + img{
-    max-height: 300px;
+    max-height: 200px;
 }
 .cols2{
     display: grid;
