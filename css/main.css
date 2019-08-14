@@ -204,7 +204,8 @@ main section div ul li span{
     display: grid;
     grid-template-columns: auto auto auto;
     grid-gap:10px;
-    justify-items: center;
+    justify-content: center;
+    align-items: center;
 }
 .cols2 img{
     border-radius: 5px;
