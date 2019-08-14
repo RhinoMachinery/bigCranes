@@ -200,7 +200,7 @@ main section div ul li span{
     max-width: 95vw;
     margin: 0 auto;
 }
-.img-inherit{
+.cols1 h3 + img{
     max-height: inherit;
 }
 .cols2{
