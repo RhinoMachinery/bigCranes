@@ -36,6 +36,9 @@ header ul img{
     align-items: center;
     margin: 10px auto;
 }
+main iframe{
+    width: 90%;
+}
 img{
     max-width: 150%;
     vertical-align: middle;
