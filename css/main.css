@@ -29,6 +29,18 @@ header li{
 header ul img{
     max-width: 1em;
 }
+
+#pdf img{
+    max-width: 20px;
+    border:0;
+    margin-right: 5px;
+    padding: 0;
+    border-radius: 0;
+    box-shadow: 0;
+}
+#pdf a:hover{
+    text-decoration: underline;
+}
 .flex{
     display: flex;
     flex-flow: row nowrap;
@@ -518,6 +530,9 @@ main p{
     clear:both;
     max-width: 80vw;
     margin: 10px auto;
+    }
+    #pdf img{
+        display: none;
     }
 }
 
